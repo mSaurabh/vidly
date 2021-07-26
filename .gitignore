@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/App.test.tsx
+src/test.json
+src/testdata.json
+src/test.ts
+package-lock.json
